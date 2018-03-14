@@ -1,5 +1,7 @@
-Assets Backend
----------------
+**DEPRECATED**: This repository together with others has been merged into the [orbiting/backends](https://github.com/orbiting/backends) monorepo. Let's continue the journey there.
+
+[DEPRECATED] Assets Backend
+---------------------------
 
 This is a lightweight, fast nodejs-express server for asset proxying and image manipulation (resizing, greyscaling, webp format transformation). It streams assets from other urls, from s3 buckets, out of github repos and can render webpages to PNGs.
 
